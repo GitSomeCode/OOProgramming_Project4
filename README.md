@@ -1,6 +1,6 @@
 OOProgramming_Project4
 ======================
-
+```
 void About()
 {
     cout << " ------------------------------------------" << endl;
@@ -27,4 +27,4 @@ void About()
     cout << " Encoded strings are the following format:" << endl;
     cout << " [$][digit][x digit repeated]" << endl;
 }
-
+```
